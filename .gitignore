@@ -1,14 +1,10 @@
 # xcode noise
-*build/*
 */build/*
-
 *.swp
 *~.nib
-
 *.pbxuser
 *.perspective
 *.perspectivev3
-
 *.mode1v3
 *.mode2v3
 
